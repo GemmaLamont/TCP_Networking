@@ -15,3 +15,10 @@ using theSend-And-Wait Protocol.
 ----------       ----------       ----------
 
 The max packet length is 512.
+
+=================================================================
+Licence
+=================================================================
+
+Ideally this program would be released open source on GitHub.com under Apache II licence.
+However as this code is considered a part of an assignment it cannot be distributed.
